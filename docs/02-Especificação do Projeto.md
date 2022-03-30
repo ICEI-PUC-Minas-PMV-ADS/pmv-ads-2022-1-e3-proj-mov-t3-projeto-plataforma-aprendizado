@@ -1,26 +1,12 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Para definir de forma exata o problema e entender melhor as necessidades do público alvo, foram identificados dois perfis de usuários: os professores e os estudantes. Para mostrar de forma clara cada perfil, foram definidos as personas e as histórias de usuário.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem:
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+*TERMINAR*
 
 ## Histórias de Usuários
 
@@ -77,47 +63,43 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
+#### A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues. 
+
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA  | 
+|RF-002| O aplicativo deve apresentar uma página inicial que contenha indicações de pesquisas de aulas, notificações, menu e informações necessárias para seu uso   | MÉDIA |
+|RF-003| O aplicativo deverá permitir a exibição de notificações em um menu especial em sua barra de tarefas.    | MÉDIA |
+|RF-004| O aplicativo deverá permitir filtrar por disciplina, habilidades, hobbies e/ou atividades as quais gostariam de ter aulas.   | MÉDIA |
+|RF-005| O aplicativo deverá ter uma caixa de entrada para as mensagens recebidas pelo usuário.   | ALTA  |
+|RF-006| O aplicativo deverá conter um espaço de chat, onde haja espaço para interação entre professores e alunos.   | MÉDIA |
+|RF-007| O aplicativo poderá ordenar a lista de professores exibidos de acordo com critérios de dados disponíveis para o usuário: preço, avaliação, senioridade.   | BAIXA |
+|RF-008| O aplicativo deverá ter formulário de cadastro para novo usuário: professores e alunos.    | BAIXA |
+|RF-009| O aplicativo deverá permitir completar e editar o perfil de cadastro, incluindo imagens.    | BAIXA |
+|RF-010| O aplicativo terá formulário de avaliação para professores e alunos.    | BAIXA |
+|RF-011| O site deve conter um formulário que permita o usuário criar uma nova senha em caso de esquecimento   | BAIXA |
+
 
 ### Requisitos não Funcionais
+
+#### A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender. 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-002| O aplicativo deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) |  ALTA | 
+|RNF-003| O aplicativo deverá ser construído com o critério mobile first, pois seu principal dispositivo ser ao smartphone.  |  ALTA | 
+|RNF-004| O aplicativo deve ter bom nível de contraste entre os elementos da tela em conformidade |  MEDIA | 
+|RNF-005| O site deve ser compatível com o sistema operacional Android com maior capilaridade do mercado.  |  ALTA | 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+#### As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir. 
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| RE-01 | O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2022. |
+| RE-02 | A equipe não pode subcontratar o desenvolvimento do trabalho. |
 
 ## Diagrama de Casos de Uso
 
@@ -134,17 +116,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+A Matriz de rastreabilidade de requisitos tem como objetivo documentar, testar e codificar os requisitos compreendendo as diferentes interrelações entre eles. Além disso permite adicionar os stakeholders do projeto para compreender a complexidade e como alterar e comunicar alterações posteriores nos softwares.
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
+![](img/02-matriz-rastreabilidade.png)
 
 # Gerenciamento de Projeto
 

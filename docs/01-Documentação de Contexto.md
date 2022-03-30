@@ -1,46 +1,38 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Devido à crescente interação por meios digitais, não apenas os negócios e a comunicação estão migrando para o mundo virtual, mas também atividades até então compreendidas como tradicionais e realizáveis somente de forma presencial, sendo um dos principais exemplos a educação. 
+
+Durante a pandemia de COVID-19, o que antes era uma novidade com algum potencial, tornou-se a regra geral: o ensino à distância. Conhecido também por EAD, esta modalidade há poucos anos sofria até certo preconceito por parte de alguns, que questionavam a efetividade da interação professor-aluno num ambiente virtual. O EAD, no entanto, se mostrou um modelo capaz de suprir as necessidades e até mesmo levar o ensino a pessoas que não teriam acesso de outro maneira. É fato que problemas surgiram durante sua aplicação, principalmente dada a pressa com a qual o modelo teve de ser implantado, porém como qualquer outra tecnologia é passível de melhorias. 
+
+O EAD sem dúvida veio para ficar, seja como protagonista, seja como complemento ao ensino presencial. É premente saber como utilizá-lo e dispor de boas ferramentas que facilitem o seu uso, potencializando suas qualidades e remediando suas falhas, de modo a aperfeiçoá-lo constantemente. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Apesar dos nítidos avanços recentes, há ainda muito campo para inovação na modalidade EAD, pois se trata de uma forma de ensino incipiente, em seus primeiros anos de aplicação. Sendo assim, é preciso que plataformas cada vez mais completas e inteligentes sejam criadas com o objetivo de conectar professores e alunos interessados no assunto e fornecer a eles uma ferramenta que permita a troca de aprendizados da forma mais simples e descomplicada possível, eliminando barreiras em vez de erguê-las. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Este trabalho objetiva a criação de um aplicativo mobile de uma plataforma que conecta professores e alunos, de modo que ambos possam se conhecer de acordo com o interesse de um e a especialidade do outro. A plataforma busca expor os perfis dos professores para que os alunos interessados possam contatá-los de uma forma simples e rápida. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar: 
+
+> - Fornecer funcionalidades que permitam a interação entre professores e alunos, seja por meio de apps de trocas de mensagens ou e-mails. 
+> - Apresentar um perfil amplo, porém simplificado de cada professor, de modo a facilitar a compreensão por parte dos alunos. 
+> - Um sistema de cadastro e login sem burocracia, coletando apenas as informações essenciais de cada um. 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com uma pesquisa feita pelo Sagah, os números apontam que em 2023 mais alunos estarão matriculados em um curso EAD do que um curso presencial. Hoje, o ensino superior à distância no Brasil já chega a 26% do número total de alunos. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Hoje em dia, o EAD já alcança mais de 1 milhão de alunos. Para entender a grandiosidade desse número, é só a que verificar que em 2005 o número de alunos matriculados em EAD era de cerca de 100 mil. Isto é, em pouco mais de 10 anos esse número cresceu quase 1000%. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Embora haja muitas empresas investindo no segmento, o crescimento exponencial dá margem para a entrada de outros competidores, ainda mais em se tratando de um mercado ainda em desenvolvimento, com muito campo para inovação. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A gama de interessados em algum tipo de instrução pode variar quase indefinidamente, dada a quantidade de áreas e os diversos motivos para se procurar um professor particular online. No entanto, os mais esperados são: 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> - Concurseiros em geral;
+> - Estudantes em fase pré-vestibular;
+> - Alunos de ensino fundamental e médio; 
+> - Universitários;
+> - Estudantes de idiomas estrangeiros. 
