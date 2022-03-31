@@ -14,7 +14,7 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-projeto-plataforma-aprendizado/blob/main/src/img/ModeloEntidadesERelacionamentos.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-projeto-plataforma-aprendizado/blob/main/src/img/ModeloER.drawio.png)
 
 ## Esquema Relacional
 
