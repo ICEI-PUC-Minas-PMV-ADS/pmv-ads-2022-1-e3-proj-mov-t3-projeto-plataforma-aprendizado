@@ -116,9 +116,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-A Matriz de rastreabilidade de requisitos tem como objetivo documentar, testar e codificar os requisitos compreendendo as diferentes interrelações entre eles. Além disso permite adicionar os stakeholders do projeto para compreender a complexidade e como alterar e comunicar alterações posteriores nos softwares.
+A Matriz de rastreabilidade de requisitos tem como objetivo documentar, testar e codificar os requisitos compreendendo as diferentes interrelações entre eles. Além disso permite adicionar os stakeholders do projeto para compreender a complexidade e como alterar e comunicar alterações posteriores nos softwares
 
-![](img/02-matriz-rastreabilidade.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-projeto-plataforma-aprendizado/blob/main/src/img/MatrizdeRastreabilidade.png)
 
 # Gerenciamento de Projeto
 
