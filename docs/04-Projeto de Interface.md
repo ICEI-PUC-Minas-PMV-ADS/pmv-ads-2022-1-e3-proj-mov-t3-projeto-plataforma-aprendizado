@@ -14,43 +14,43 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 Protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Os Wireframes apresentados a baixo mostra a visão do aluno e do professor
 
-### Professor
+## Professor
 
-## Cadastro
+### Cadastro
 
 ![](/src/img/2CadastroProfessor.png)
 
-## Tela inicial/Agendamento
+### Tela inicial/Agendamento
 
 ![](/src/img/3AgendaProfessor.png)
 
-## Mensagens dos alunos
+### Mensagens dos alunos
 
 ![](/src/img/5MensagensProfessor.png)
 
-## Perfil Professor
+### Perfil Professor
 
 ![](/src/img/6PerfilProfessor.png)
 
-### Aluno
+## Aluno
 
-## Cadastro Aluno
+### Cadastro Aluno
 
 ![](/src/img/1CadastroAluno.png)
 
-## Lista de pesquisa de professores
+### Lista de pesquisa de professores
 
 ![](/src/img/2ListadeProfessoresAluno.png)
 
-## Perfil do professor pesquisado
+### Perfil do professor pesquisado
 
 ![](/src/img/3PerfilProfessorAluno.png)
 
-## Mensagem p/ Professor
+### Mensagem p/ Professor
 
 ![](/src/img/4MensagemparaProfessorAluno.png)
 
 
-Por ultimo temos os wireframe do Menu que que ficará contido em todos os outros wireframes
+### Por ultimo temos os wireframe do Menu que que ficará contido em todos os outros wireframes
 
 ![](/src/img/4MenuProfessor.png)
