@@ -1,10 +1,10 @@
 # Plataforma de Aprendizagem
 
-`CURSO` Análise e Desenvolvimento de Sistemas
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA` Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio 
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE` 3º Eixo/Periodo
+`3º Eixo/Periodo`
 
 ## Integrantes
 
@@ -17,6 +17,10 @@
 ## Orientador
 
 * Mateus Curcino de Lima
+
+## Intrução de utilização
+
+Compilar o projeto no localhost e utilizar.
 
 # Documentação
 
