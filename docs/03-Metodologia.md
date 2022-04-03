@@ -27,13 +27,14 @@ O projeto segue a seguinte convenção para o nome de branches:
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:  
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+- `Backlog`: com todas as tarefas listadas, cada uma com um label indicando a qual sprint pertence. 
+- `To Do`: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+- `Doing`: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+- `Test`: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidos para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito. 
+- `Done`: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
+Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
 
 ## Gerenciamento de Projeto
 
