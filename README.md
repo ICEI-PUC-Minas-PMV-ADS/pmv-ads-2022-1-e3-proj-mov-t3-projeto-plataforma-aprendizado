@@ -1,27 +1,22 @@
-# TÍTULO DO PROJETO
+# Plataforma de Aprendizagem
 
-`CURSO`
+`CURSO` Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA` Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio 
 
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`SEMESTRE` 3º Eixo/Periodo
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gabriel Teixeira Viana
+* João Pedro Marques Mourão
+* Vanessa Aparecida André
+* Pablo Djorkaeff dos Santos.
+* Matheus Lavisio da Cruz Marques
 
 ## Orientador
 
-* Nome completo do professor 1
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+* Mateus Curcino de Lima
 
 # Documentação
 
