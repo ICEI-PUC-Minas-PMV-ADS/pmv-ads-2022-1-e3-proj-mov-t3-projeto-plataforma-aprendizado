@@ -46,17 +46,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA  | 
+|RF-001| O aplicativo deverá ter formulário de cadastro para novo usuário: professores e alunos.  | ALTA  |
 |RF-002| O aplicativo deve apresentar uma página inicial que contenha indicações de pesquisas de aulas, notificações, menu e informações necessárias para seu uso   | MÉDIA |
 |RF-003| O aplicativo deverá permitir a exibição de notificações em um menu especial em sua barra de tarefas.    | MÉDIA |
 |RF-004| O aplicativo deverá permitir filtrar por disciplina, habilidades, hobbies e/ou atividades as quais gostariam de ter aulas.   | MÉDIA |
 |RF-005| O aplicativo deverá ter uma caixa de entrada para as mensagens recebidas pelo usuário.   | ALTA  |
-|RF-006| O aplicativo deverá conter um espaço de chat, onde haja espaço para interação entre professores e alunos.   | MÉDIA |
+|RF-006| O aplicativo deverá conter um espaço de chat, onde haja espaço para interação entre professores e alunos.   | BAIXA |
 |RF-007| O aplicativo poderá ordenar a lista de professores exibidos de acordo com critérios de dados disponíveis para o usuário: preço, avaliação, senioridade.   | BAIXA |
-|RF-008| O aplicativo deverá ter formulário de cadastro para novo usuário: professores e alunos.    | BAIXA |
-|RF-009| O aplicativo deverá permitir completar e editar o perfil de cadastro, incluindo imagens.    | BAIXA |
-|RF-010| O aplicativo terá formulário de avaliação para professores e alunos.    | BAIXA |
-|RF-011| O site deve conter um formulário que permita o usuário criar uma nova senha em caso de esquecimento   | BAIXA |
+|RF-008| O aplicativo deverá permitir completar e editar o perfil de cadastro, incluindo imagens.    | BAIXA |
+|RF-009| O aplicativo terá formulário de avaliação para professores e alunos.    | BAIXA |
+|RF-010| O site deve conter um formulário que permita o usuário criar uma nova senha em caso de esquecimento   | BAIXA |
 
 
 ### Requisitos não Funcionais
