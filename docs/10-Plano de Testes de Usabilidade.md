@@ -14,8 +14,5 @@ As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Test
 |Caso de Teste| CT-01 – Cadastro| 
 |:--|:--| 
 |**Objetivo do teste**| O usuário deve conseguir realizar o cadastro na aplicação| 
-|**Passos**| 1- Acessa a aplicação com o Android. 
-2- Clica no botão inscreva-se.
-3- Preenche o formulário de cadastro.
-4- Clica no botão concluir cadastro.| 
+|**Passos**| 1- Acessa a aplicação com o Android. 2- Clica no botão inscreva-se. 3- Preenche o formulário de cadastro. 4- Clica no botão concluir cadastro.| 
 |**Critérios de êxito**| Finalização do cadastro. | 
