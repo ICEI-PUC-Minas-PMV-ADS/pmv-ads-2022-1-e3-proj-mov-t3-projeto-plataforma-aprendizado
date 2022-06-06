@@ -1,6 +1,6 @@
 # Registro de Testes de Software
 
-Resultado do registro dos teste de usabilidade.
+Registro com as evidências dos testes de software realizados, baseado em um plano de testes pré-definido.
 
 |Caso de Teste | CT-01 - Cadastro|
 |:--|:--|
