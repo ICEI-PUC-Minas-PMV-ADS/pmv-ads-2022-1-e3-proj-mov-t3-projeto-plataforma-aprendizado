@@ -1,17 +1,8 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+Resultado do registro dos teste de usabilidade.
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
-
-## Avaliação
-
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-
-|Caso de Teste | CT-01 - ...|
+|Caso de Teste | CT-01 - Cadastro|
 |:--|:--|
-|**Objetivo do teste**|....|
+|**Objetivo do teste**|O usuário deve conseguir realizar o cadastro na aplicação.|
 |**Resultado**|.....|
