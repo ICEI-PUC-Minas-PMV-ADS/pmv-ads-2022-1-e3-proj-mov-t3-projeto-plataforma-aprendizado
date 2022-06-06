@@ -46,16 +46,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O aplicativo deverá ter formulário de cadastro para novo usuário: professores e alunos.  | ALTA  |
-|RF-002| O aplicativo deve apresentar uma página inicial que contenha indicações de pesquisas de aulas, notificações, menu e informações necessárias para seu uso   | MÉDIA |
-|RF-003| O aplicativo deverá permitir a exibição de notificações em um menu especial em sua barra de tarefas.    | MÉDIA |
-|RF-004| O aplicativo deverá permitir filtrar por disciplina, habilidades, hobbies e/ou atividades as quais gostariam de ter aulas.   | MÉDIA |
-|RF-005| O aplicativo deverá ter uma caixa de entrada para as mensagens recebidas pelo usuário.   | ALTA  |
-|RF-006| O aplicativo deverá conter um espaço de chat, onde haja espaço para interação entre professores e alunos.   | BAIXA |
-|RF-007| O aplicativo poderá ordenar a lista de professores exibidos de acordo com critérios de dados disponíveis para o usuário: preço, avaliação, senioridade.   | BAIXA |
-|RF-008| O aplicativo deverá permitir completar e editar o perfil de cadastro, incluindo imagens.    | BAIXA |
-|RF-009| O aplicativo terá formulário de avaliação para professores e alunos.    | BAIXA |
-|RF-010| O site deve conter um formulário que permita o usuário criar uma nova senha em caso de esquecimento   | BAIXA |
+|RF-001| O aplicativo deverá ter formulário de cadastro para novo usuário: professores e alunos. |ALTA|
+|RF-002| O aplicativo na visão do aluno, deve apresentar uma página inicial que contenha um campo para realizar pesquisas de professores. |ALTA|
+|RF-003| O aplicativo deverá mostrar listagem com resultado da pesquisa realizada com card de informação do professores. |ALTA|
+|RF-004| O aplicativo deverá permitir filtrar por disciplina, habilidades, hobbies e/ou atividades as quais gostariam de ter aulas. |MÉDIA|
+|RF-005| O aplicativo deverá ter na barra de menu a exibição das notificaçoes de mensagens recebidadas. |BAIXA|
+|RF-006| O aplicativo deverá conter um espaço de chat, onde haja espaço para interação entre professores e alunos. |BAIXA|
+|RF-007| O aplicativo poderá ordenar a lista de professores exibidos de acordo com critérios de dados disponíveis para o usuário: preço, avaliação. |BAIXA|
+|RF-008| O aplicativo deverá permitir completar e editar o perfil de cadastro, incluindo imagens. |BAIXA|
+|RF-009| O aplicativo terá formulário de avaliação para professores e alunos. |BAIXA|
+|RF-010| O site deve conter um formulário que permita o usuário criar uma nova senha em caso de esquecimento |BAIXA|
+|RF-O11| O aplicativo deve apresentar uma página inicial que contenha indicações de pesquisas de aulas, notificações, menu e informações necessárias para seu uso. |MÉDIA|
 
 
 ### Requisitos não Funcionais
@@ -64,11 +65,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| O aplicativo deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) |  ALTA | 
-|RNF-003| O aplicativo deverá ser construído com o critério mobile first, pois seu principal dispositivo ser ao smartphone.  |  ALTA | 
-|RNF-004| O aplicativo deve ter bom nível de contraste entre os elementos da tela em conformidade |  MEDIA | 
-|RNF-005| O site deve ser compatível com o sistema operacional Android com maior capilaridade do mercado.  |  ALTA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel |MÉDIA| 
+|RNF-002| O aplicativo deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) |ALTA| 
+|RNF-003| O aplicativo deverá ser construído com o critério mobile first, pois seu principal dispositivo ser ao smartphone.  |ALTA| 
+|RNF-004| O aplicativo deve ter bom nível de contraste entre os elementos da tela em conformidade |MEDIA| 
+|RNF-005| O site deve ser compatível com o sistema operacional Android com maior capilaridade do mercado.  |ALTA| 
 
 ## Restrições
 
