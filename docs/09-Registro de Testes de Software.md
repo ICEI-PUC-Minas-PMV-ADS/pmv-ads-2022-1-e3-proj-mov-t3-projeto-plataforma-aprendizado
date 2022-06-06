@@ -1,8 +1,13 @@
 # Registro de Testes de Software
 
-Registro com as evidências dos testes de software realizados, baseado em um plano de testes pré-definido.
+## Avaliação 
 
-|Caso de Teste | CT-01 - Cadastro|
-|:--|:--|
-|**Objetivo do teste**|O usuário deve conseguir realizar o cadastro na aplicação.|
-|**Resultado**|.....|
+  
+
+Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes. 
+
+  
+
+> **Links Úteis**: 
+
+> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/) 
