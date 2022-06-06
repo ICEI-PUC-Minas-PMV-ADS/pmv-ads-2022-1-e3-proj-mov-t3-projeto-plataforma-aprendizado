@@ -4,7 +4,7 @@ Registro com as evidências dos testes de software realizados, baseado em um pla
 
 |Caso de Teste | CT-01 - Cadastro|
 |:--|:--|
-|**Objetivo do teste**|O usuário deve conseguir realizar o cadastro na aplicação.|
+|**Objetivo do teste**|O usuário deverá conseguir realizar o cadastro na aplicação.|
 |**Resultado**|.....|
 
 |Caso de Teste | CT-02 - Responsividade|
