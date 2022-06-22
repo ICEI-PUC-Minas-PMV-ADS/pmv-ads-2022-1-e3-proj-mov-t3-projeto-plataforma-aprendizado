@@ -48,7 +48,7 @@
 |**Objetivo dos Teste:**| Acompanhar feedback e possíveis melhorias no app|
 |**Critérios de Êxito:**| Todos os campos do formulário serem preenchidos e enviados corretamente.|
 
-|     Casos de Teste    | 		CT-08 Editar Perfil			|
+|     Casos de Teste    | 		CT-07 Editar Perfil			|
 |-----------------------|-----------------------------------------------|
 |**Requisitos Associados:**|RF-09 O aplicativo deverá permitir completar e editar o perfil de cadastro, incluindo imagens.|
 |**Entrada:**|Controle do perfil pessoal|
